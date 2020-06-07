@@ -1,0 +1,4 @@
+﻿  stdafx.cpp
+  WindowsLab_1.cpp
+c:\users\user\desktop\winapi\laba1\windowslab_1\windowslab_1.cpp(1): warning C4067: непредвиденные лексемы за директивой препроцессора, требуется newline
+  WindowsLab_1.vcxproj -> C:\Users\User\Desktop\Winapi\laba1\Debug\WindowsLab_1.exe
